@@ -1,0 +1,11 @@
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\bin\Debug\Proxy Checker.exe.config
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\bin\Debug\Proxy Checker.exe
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\bin\Debug\Proxy Checker.pdb
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\bin\Debug\Leaf.xNet.xml
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.csproj.AssemblyReference.cache
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.csproj.CoreCompileInputs.cache
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.csproj.CopyComplete
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.exe
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker\obj\Debug\Proxy Checker.pdb

@@ -1,0 +1,8 @@
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\bin\Debug\Proxy Checker V2.exe.config
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\bin\Debug\Proxy Checker V2.exe
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\bin\Debug\Proxy Checker V2.pdb
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\obj\Debug\Proxy Checker V2.csproj.AssemblyReference.cache
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\obj\Debug\Proxy Checker V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\obj\Debug\Proxy Checker V2.csproj.CoreCompileInputs.cache
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\obj\Debug\Proxy Checker V2.exe
+C:\Users\Iliya.Asghari\Desktop\Proxy Checker\Proxy Checker V2\obj\Debug\Proxy Checker V2.pdb

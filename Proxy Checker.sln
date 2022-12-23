@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy Checker", "Proxy Checker\Proxy Checker.csproj", "{EF4B0B99-B07C-4D55-9E7E-09E91D66DC03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy Checker V2", "Proxy Checker V2\Proxy Checker V2.csproj", "{3F5AA2C0-45E1-4578-AC79-EC77920A54B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4B0B99-B07C-4D55-9E7E-09E91D66DC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4B0B99-B07C-4D55-9E7E-09E91D66DC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4B0B99-B07C-4D55-9E7E-09E91D66DC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4B0B99-B07C-4D55-9E7E-09E91D66DC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5AA2C0-45E1-4578-AC79-EC77920A54B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5AA2C0-45E1-4578-AC79-EC77920A54B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5AA2C0-45E1-4578-AC79-EC77920A54B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5AA2C0-45E1-4578-AC79-EC77920A54B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F771880-2A80-4A8E-B32B-EB7C4FACD5E8}
+	EndGlobalSection
+EndGlobal
